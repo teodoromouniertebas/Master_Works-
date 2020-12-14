@@ -1,7 +1,7 @@
 # Master_Works-
 This repository brings together all of my works carried out during my studies at the University of Valencia as well as the University of Nantes. 
 
-## Works from Valencia (Spanish) :
+## Works from the University of Valencia (Spanish) :
 
 * **TFG** (Estudio sobre los determinantes económicos de la tasa de migración en 2015)
 
@@ -14,7 +14,7 @@ This repository brings together all of my works carried out during my studies at
 * **Estudio y presentación IERF (Integración Economica Real y Financiera)**
 
 
-## Works from Nantes (French) :
+## Works from the University of Nantes (French) :
 
 * **Etude sur les déterminants du respect des gestes barrières et du maintien des habitudes sociales** (Modèles Biprobit & Biprobit Récursif) réalisé sous Stata et R
 
