@@ -22,3 +22,4 @@ This repository brings together all of my works carried out during my studies at
 
 * **Projet BigData : Méthodes de sélections de variables (LASSO, Ridge, Elastic-Net etc)** Réalisé sous R (Rapport Rmarkdown au format html)
 
+* **Projet GAM : Generalized Additive Models (library mgcv)** Réalisé sous R (Rapport Rmarkdown au format html)
