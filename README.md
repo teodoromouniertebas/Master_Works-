@@ -29,3 +29,7 @@ This repository brings together all of my works carried out during my studies at
 * **Kaggle project : Titanic ML from Disaster** Prédire les survivants du Titanic à partir de la base de données publique présente sur Kaggle. (Arbres de décisions/RandomForest/Boosting/Bagging) Réalisé sous python
 
 * **Management du risque et méthode de scoring** L'objectif était d'améliorer l’efficacité du dispositif actuel concernant la détection de fraude en temps réel tout en limitant la gène. (Arbres de décisions/RandomForest/Perceptron Multi-Couche) Réalisé sous python
+
+* **High-Frequency Financial Econometrics Modeling and forecasting realized volatility** L’intérêt de ce développement est d’estimer l’évolution du taux de change entre le dollar américain et le dollar canadien depuis juillet 1980 à août 2013 dans le but de faire de la prédiction. (HAR) Réalisé sous R.
+
+* **Analyse du poids des bébés à la naissance** L’étude que nous réalisons s’appuie sur une base de données comportant les 7 variables, pour 11 pays européens et sur 15 années, avec un total de 176 observations. (Données de Panel) Réalisé sous Stata.
