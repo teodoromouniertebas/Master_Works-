@@ -34,4 +34,4 @@ This repository brings together all of my works carried out during my studies at
 
 * **Analyse du poids des bébés à la naissance** L’étude que nous réalisons s’appuie sur une base de données comportant les 7 variables, pour 11 pays européens et sur 15 années, avec un total de 176 observations. (Données de Panel) Réalisé sous Stata.
 
-* **Séries Temporelles Multivariées: Modélisation de la relation entre taux d'intérêt et la production nationale** L'étude conciste à vérifier à travers les modélisation de type VAR, VECM, SVAR la relation que la théorie macroéconomique affirme, entre la Production et le Taux d'intérêt. Nous avons fait le choix de l'étudier pour les Etats-Unis entre 1950 et 2000. (VAR) réalisé sous R.   
+* **Séries Temporelles Multivariées: Modélisation de la relation entre taux d'intérêt et la production nationale** L'étude consiste à vérifier à travers les modélisation de type VAR, VECM, SVAR la relation que la théorie macroéconomique affirme, entre la Production et le Taux d'intérêt. Nous avons fait le choix de l'étudier pour les Etats-Unis entre 1950 et 2000. (VAR) réalisé sous R.   
