@@ -33,3 +33,5 @@ This repository brings together all of my works carried out during my studies at
 * **High-Frequency Financial Econometrics Modeling and forecasting realized volatility** L’intérêt de ce développement est d’estimer l’évolution du taux de change entre le dollar américain et le dollar canadien depuis juillet 1980 à août 2013 dans le but de faire de la prédiction. (HAR) Réalisé sous R.
 
 * **Analyse du poids des bébés à la naissance** L’étude que nous réalisons s’appuie sur une base de données comportant les 7 variables, pour 11 pays européens et sur 15 années, avec un total de 176 observations. (Données de Panel) Réalisé sous Stata.
+
+* **Séries Temporelles Multivariées: Modélisation de la relation entre taux d'intérêt et la production nationale** L'étude conciste à vérifier à travers les modélisation de type VAR, VECM, SVAR la relation que la théorie macroéconomique affirme, entre la Production et le Taux d'intérêt. Nous avons fait le choix de l'étudier pour les Etats-Unis entre 1950 et 2000. (VAR) réalisé sous R.   
