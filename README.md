@@ -20,7 +20,7 @@ This repository brings together all of my works carried out during my studies at
 
 * [**Projet BigData : Méthodes de sélections de variables (LASSO, Ridge, Elastic-Net etc)**](https://teodoromouniertebas.github.io/Master_Works-/Projet_BigData.R.html) Réalisé sous R (Rapport Rmarkdown au format html)
 
-* [**Projet GAM : Generalized Additive Models (library mgcv)**](https://teodoromouniertebas.github.io/Master_Works-/projet%GAM.html) Réalisé sous R (Rapport Rmarkdown au format html)
+* [**Projet GAM : Generalized Additive Models (library mgcv)**](https://teodoromouniertebas.github.io/Master_Works-/projet%20GAM.html) Réalisé sous R (Rapport Rmarkdown au format html)
 
 * **Projet d'Econométrie Financière Avancée : Analyse du cours financier Tesla de 2015 à 2019 (library rugarch, MCS, multDM, GAS)** Modélisation de la volatilité des rentabilités Tesla à l’aide de différents modèles GARCH, puis estimation du risque de pertes extrèmes par la VaR et l'Expected Shortfall. (Réaliser sous R)
 
