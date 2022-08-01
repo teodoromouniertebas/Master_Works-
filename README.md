@@ -14,9 +14,11 @@ This repository brings together all of my works carried out during my studies at
 
 ## Works from the University of Nantes (French) :
 
-* [**Etude sur les déterminants des migrations internationales en 2015**](https://teodoromouniertebas.github.io/Master_Works-/Memoire_M2.pdf) et 
+* [**Etude sur les déterminants des migrations internationales en 2015**](https://teodoromouniertebas.github.io/Master_Works-/Memoire_M2.pdf) et [**Synthèse**](https://teodoromouniertebas.github.io/Master_Works-/Synthese_Memoire.pdf)
 
-* [**Etude sur les déterminants du respect des gestes barrières et du maintien des habitudes sociales**](https://teodoromouniertebas.github.io/Master_Works-/Etudes_d%C3%A9terminants_gestes_barri%C3%A8res.Stata.pdf) et [**Résumé**](https://teodoromouniertebas.github.io/Master_Works-/R%C3%A9sum%C3%A9_4pages_Etude_d%C3%A9terminants_gestes_barri%C3%A8res.R.pdf) (Modèles Biprobit & Biprobit Récursif) réalisé sous Stata et R
+* [**Rapport de stage chez Everis**](https://teodoromouniertebas.github.io/Master_Works-/Rapport_de_stage_Everis.pdf)
+
+* [**Etude sur les déterminants du respect des gestes barrières et du maintien des habitudes sociales**](https://teodoromouniertebas.github.io/Master_Works-/Etudes_d%C3%A9terminants_gestes_barri%C3%A8res.Stata.pdf) et [**Synthèse**](https://teodoromouniertebas.github.io/Master_Works-/R%C3%A9sum%C3%A9_4pages_Etude_d%C3%A9terminants_gestes_barri%C3%A8res.R.pdf) (Modèles Biprobit & Biprobit Récursif) réalisé sous Stata et R
 
 * [**Kaggle project : Digit Recognizer**](https://teodoromouniertebas.github.io/Master_Works-/ProjetKaggle_Digit_Recognizer.py.pdf) Reconnaissance de chiffres grâce aux méthodes de Machine Learning (SVM/Réseaux de Neurones/RandomForest etc) Réalisé sous python
 
