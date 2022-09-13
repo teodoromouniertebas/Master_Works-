@@ -3,7 +3,7 @@ This repository brings together all of my works carried out during my studies at
 
 ## Works from the University of Valencia (Spanish) :
 
-* [**Memoria de practicas**](https://teodoromouniertebas.github.io/Master_Works-/Memoria_practica_ACNUR.pdf) realisadas en la delegacion de valencia de UNHCR/ACNUR Comité Español (Agencia de la ONU para los Refugiados)
+* [**Memoria de practicas**](https://docs.google.com/viewer?url=https://teodoromouniertebas.github.io/Master_Works-/Memoria_practica_ACNUR.pdf) realisadas en la delegacion de valencia de UNHCR/ACNUR Comité Español (Agencia de la ONU para los Refugiados)
  
 * [**Estudio sobre la criminalidad en europa**](https://teodoromouniertebas.github.io/Master_Works-/Proyecto_Criminalidad_R.html) con el objetivo de manipular datos con R. Realizado con un Rmarkdown con la salida en html). 
 
