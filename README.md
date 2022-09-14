@@ -28,7 +28,7 @@ This repository brings together all of my works carried out during my studies at
 
 * [**Projet d'Econométrie Financière Avancée : Analyse du cours financier Tesla de 2015 à 2019 (library rugarch, MCS, multDM, GAS)**](https://teodoromouniertebas.github.io/Master_Works-/Econom%C3%A9trie%20Financi%C3%A8re%20Avanc%C3%A9e%20Actions%20TESLA.pdf) Modélisation de la volatilité des rentabilités Tesla à l’aide de différents modèles GARCH, puis estimation du risque de pertes extrèmes par la VaR et l'Expected Shortfall. (Réaliser sous R)
 
-* [**Kaggle project : Titanic ML from Disaster**](https://teodoromouniertebas.github.io/Master_Works-/ProjetKaggle_Titanic.ipynb) Prédire les survivants du Titanic à partir de la base de données publique présente sur Kaggle. (Arbres de décisions/RandomForest/Boosting/Bagging) Réalisé sous python
+* [**Kaggle project : Titanic ML from Disaster**](https://teodoromouniertebas.github.io/Master_Works-/Titanic_KaggleProject.pdf) Prédire les survivants du Titanic à partir de la base de données publique présente sur Kaggle. (Arbres de décisions/RandomForest/Boosting/Bagging) Réalisé sous python
 
 * [**Management du risque et méthode de scoring**](https://teodoromouniertebas.github.io/Master_Works-/Detection%20Fraude.pdf) L'objectif était d'améliorer l’efficacité du dispositif actuel concernant la détection de fraude en temps réel tout en limitant la gène. (Arbres de décisions/RandomForest/Perceptron Multi-Couche) Réalisé sous python
 
